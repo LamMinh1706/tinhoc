@@ -1,0 +1,2 @@
+# tinhoc
+python and stuff
